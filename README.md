@@ -1,4 +1,4 @@
-<h1> align="center"> İbrahim Çavuş Hi there 👋  </h1>
+<h1 align="center" İbrahim Çavuş Hi there 👋  </h1>
 <br>
 🎓 I graduated from Gaziantep Universty Computer Programing
 <br>
@@ -6,7 +6,7 @@
 - - 📫 How to reach me: ..
                          ibrahimcavusk@gmail.com
   <hr>
-  <p>
+  <p
   <h2 align="center"> Languages & Frameworks & Tools & Abilities </h2>
 <img src = https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png
 width="25" height="25" >
