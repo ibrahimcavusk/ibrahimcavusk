@@ -22,10 +22,7 @@ width="25" height="25" >
 width="25" height="25" >
 <br>
 
-<details>
-<summary>:bulb: Github Stats</summary>
-<img src:"(https://github-readme-stats.vercel.app/api?username=ibrahimcavusk)" >
-</details>
+<p><img align="left" src="(https://github-readme-stats.vercel.app/api?username=ibrahimcavusk&show_icons=true&bg_color=00000000)" /></p>
 
 
 <!--
