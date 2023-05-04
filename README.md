@@ -1,9 +1,4 @@
 ### İbrahim Çavuş Hi there 👋
-<h1 align="center">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋; He+is+İbrahim+Cavus+Karadana....;!&center=true&size=30">
-    </a>
-  </h1>
 🎓 I graduated from Gaziantep Universty Computer Programing
 <br>
 - 🌱 I’m currently learning ...Java,Java Script,React
