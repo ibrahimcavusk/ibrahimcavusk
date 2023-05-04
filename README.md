@@ -29,7 +29,6 @@ width="35" height="35" >
 width="35" height="35" >
  </ul>
 <br>
-</br>
 <details>
 <summary>:bulb: Github Stats </summary>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahimcavusk&show_icons=true&locale=en" alt="ibrahimcavusk" /></p>
