@@ -1,7 +1,7 @@
 ### İbrahim Çavuş Hi there 👋
 - 🌱 I’m currently learning ...Java,Java Script,React
 - - 📫 How to reach me: ...https://www.linkedin.com/in/ibrahimcavuskaradana/
-                                  ibrahimcavusk@gmail.com
+                         ibrahimcavusk@gmail.com
 
 <!--
 **ibrahimcavusk/ibrahimcavusk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
