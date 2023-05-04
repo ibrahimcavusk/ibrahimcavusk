@@ -21,8 +21,12 @@ width="25" height="25" >
 <img src = https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
 width="25" height="25" >
 <br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=ibrahimcavusk&show_icons=true&theme=dark#gh-dark-mode-only">
+</br>
+<details>
+<summary>:bulb: Github Stats </summary>
+<img src:"https://github-readme-stats.vercel.app/api?
+username=ibrahimcavusk&show_icons=true&theme=transparent" >
+</details>
 
 
 <!--
