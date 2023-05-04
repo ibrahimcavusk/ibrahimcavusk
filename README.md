@@ -3,8 +3,8 @@
 🎓 I graduated from Gaziantep Universty Computer Programing
 <br>
 🌱 I’m currently learning Java,Java Script,React
-- <br>
--  📫 How to reach me: ..
+ <br>
+ 📫 How to reach me: ..
                          ibrahimcavusk@gmail.com
   <hr>
 
