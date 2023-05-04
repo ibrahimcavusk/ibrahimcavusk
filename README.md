@@ -1,10 +1,10 @@
 <h1 align="center">İbrahim Çavuş Hi there 👋 </h1>
 <br>
-🎓 I graduated from Gaziantep Universty **Computer Programing**
+🎓 I graduated from Gaziantep Universty Computer Programing
 <br>
-🌱 I’m currently learning **Java,Java Script,React**     
+🌱 I’m currently learning Java,Java Script,React    
  <br>
- 📫 How to reach me:**ibrahimcavusk@gmail.com**
+ 📫 How to reach me:ibrahimcavusk@gmail.com
 
   <hr>
 
