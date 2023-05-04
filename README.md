@@ -24,8 +24,7 @@ width="35" height="35" >
 width="35" height="35" >
   <hr>
   <h2 Tolls </h2>
-  <img src = https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/Vs Code/Vs Code.png
-width="35" height="35"  >
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="30" height="30"/>
   
   
 <br>
