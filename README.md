@@ -22,7 +22,7 @@ width="25" height="25" >
 width="25" height="25" >
 <br>
 
-<img src="(https://github-readme-stats.vercel.app/api?username=ibrahimcavusk&show_icons=true&theme=dark#gh-dark-mode-only)" />
+<img src="https://github-readme-stats.vercel.app/api?username=ibrahimcavusk&show_icons=true&theme=dark#gh-dark-mode-only">
 
 
 <!--
