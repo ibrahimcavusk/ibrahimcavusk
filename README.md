@@ -1,6 +1,6 @@
 ### İbrahim Çavuş Hi there 👋
 - 🌱 I’m currently learning ...Java,Java Script,React
-- - 📫 How to reach me: ...https://www.linkedin.com/in/ibrahimcavuskaradana/
+- - 📫 How to reach me: ..
                          ibrahimcavusk@gmail.com
 
 <!--
