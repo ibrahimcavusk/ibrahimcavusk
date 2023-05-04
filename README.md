@@ -22,7 +22,7 @@ width="25" height="25" >
 width="25" height="25" >
 <br>
 
-<p><img align="left" src="(https://github-readme-stats.vercel.app/api?username=ibrahimcavusk&show_icons=true&bg_color=00000000)" /></p>
+<img src="(https://github-readme-stats.vercel.app/api?username=ibrahimcavusk&show_icons=true&theme=dark#gh-dark-mode-only)" />
 
 
 <!--
